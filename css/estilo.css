@@ -1,0 +1,14 @@
+.encabezado {
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    color: black; 
+    font-size: 24px;
+    font-weight: bold; 
+  }
+  
+  img {
+    max-width: 1000px; 
+    margin: 1px;
+  }
