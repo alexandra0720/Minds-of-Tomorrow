@@ -6,9 +6,17 @@
     color: black; 
     font-size: 24px;
     font-weight: bold; 
-  }
+}
   
-  img {
+img {
     max-width: 1000px; 
     margin: 1px;
-  }
+}
+
+.col1 {
+    width: 50%;
+}
+
+.col2 {
+    width: 25%;
+}
