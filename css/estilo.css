@@ -59,6 +59,10 @@ footer {
     text-align: ;
 }
 
+.col4 {
+    width: 33%;
+}
+
 @media screen and (max-width:700px) {
     .col0, h3 {
         width: 100%;
