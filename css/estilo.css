@@ -55,9 +55,6 @@ footer {
     background-color: black;
     color: white;
   }
-.footer-right {
-    text-align: ;
-}
 
 .col4 {
     width: 33%;
@@ -69,5 +66,8 @@ footer {
     }
     .col2, .col3{
         width: 50%;
+    }
+    * {
+        font-size: 14px;
     }
 }
